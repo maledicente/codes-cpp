@@ -1,0 +1,3 @@
+humano{soldado, cavaleiro, arqueiro, lanceiro}
+vitalidade/cansaco
+ataque/defesa
